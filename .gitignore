@@ -1,0 +1,16 @@
+# AGENTS.md requirement
+log.txt
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Hackathon submission artifacts
+code.zip
+output.csv
+
+# Environment & local files
+.env
+.DS_Store
